@@ -27,8 +27,8 @@
   		<sonar.projectKey>nishchinta_User</sonar.projectKey>
   		<sonar.organization>nishchinta</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>b753d827e2d763a9c4e6a8c95dcb8b5b1d10a079</sonar.login>
-</properties>
+  		<sonar.login>fae85a8d3721185d1b1baf99d37dc39efd8587a3</sonar.login>
+	</properties>
 	
 <dependencyManagement>
 		<dependencies>
